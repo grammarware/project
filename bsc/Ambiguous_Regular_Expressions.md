@@ -11,4 +11,4 @@ In this project, you take a [recently published paper](https://doi.org/10.1007/s
 
 You can also define your own research questions during the investigation phase or after it.
 
-Get in touch with your [potential future supervisor](mailto:v.zaytsev@utwente.nl) to discuss details!
+The project is currently being developed by **Ivo Broekhof**.
