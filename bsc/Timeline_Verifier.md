@@ -6,4 +6,4 @@ This project is about automating a part of this process, namely developing a for
 
 If this turns out to be too easy (we never know, it's a research project after all!), some extra challenge can be provided by designing and implementing an algorithm for generating consistent timelines.
 
-Get in touch with your [potential future supervisor](mailto:v.zaytsev@utwente.nl) to discuss details!
+The project is currently being developed by **Aron Davids**.
