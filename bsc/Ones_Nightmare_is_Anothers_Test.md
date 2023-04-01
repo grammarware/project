@@ -1,0 +1,7 @@
+# One's Nightmare is Another's Test
+
+[BabyCobol](https://slebok.github.io/baby/) is a language that was designed to be the “[worst nightmare](https://doi.org/10.1145/3426425.3426933)” of compiler writers, deliberately combining worst features of the oldest and the ugliest programming languages ([YT](https://www.youtube.com/watch?v=sSkIUTdfDjs)). Unfortunately, some of the most important software — that of banks, governments, military, insurance and booking companies, — is written in such languages, and in order to tackle them successfully, you need to train on smaller prey. BabyCobol is used in one of the CS MSc courses at UT, _Software Evolution_, where students treat it as a challenge and work towards its full implementation over the two months. For them, the goal is to implement as many features as possible, no matter the cost.
+
+The goal of this project is different: take the description of the language and turn it into a comprehensive test suite covering all the darkest corners of the language. The language is intentionally small, so there are not that many features, but some tests should explicitly cover feature combinations because sometimes two features can work on their own but cannot be properly combined. Sounds easy? Well, perhaps all this talk about BabyCobol being a nightmare is just for show…
+
+Get in touch with your [potential future supervisor](mailto:v.zaytsev@utwente.nl) to discuss details!
