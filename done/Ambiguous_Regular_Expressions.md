@@ -11,7 +11,7 @@ In this project, you take a [recently published paper](https://doi.org/10.1007/s
 
 You can also define your own research questions during the investigation phase or after it.
 
-The project was done by **Ivo Broekhof**:
+The project was done by **Ivo Broekhof** aka [**@brokhiv**](https://github.com/brokhiv):
 - Title: _Replication and Analysis of the Berry-Sethi Parser for Ambiguous Regular Expressions_
 - Presented at [36th Twente Student Conference on IT](https://sites.google.com/utwente.nl/tscit36/) on 4 February 2022
 - Code: https://github.com/brokhiv/bsp-kotlin

@@ -4,4 +4,8 @@
 
 The goal of this project is different: take one language framework (good lists can be found on [this website](https://cocodo.github.io/) under "Technologies" tab or in [this paper](https://doi.org/10.1016/j.cl.2015.08.007) in §4), implement whatever you can in it and report on difficulties. Sounds easy, right? Well, perhaps all this talk about BabyCobol being a nightmare is just for show…
 
-This project has been done by **[Tom Meulenkamp](http://purl.utwente.nl/essays/91706)** in 2021Q4.
+The project was done by **Tom Meulenkamp** aka [**@supertom01**](https://github.com/supertom01):
+- Title: _[Parser Benchmarking for Legacy Languages](http://purl.utwente.nl/essays/91706)_
+- Presented at [37th Twente Student Conference on IT](https://sites.google.com/utwente.nl/37th-twente-student-conference/) on 8 July 2023
+- Code: https://github.com/supertom01/BabyANTLR
+- Paper: https://drive.google.com/file/d/1S_U9IMouD3wnih9DbffMNY8o3C9reEMo/view

@@ -6,4 +6,7 @@ This project is about automating a part of this process, namely developing a for
 
 If this turns out to be too easy (we never know, it's a research project after all!), some extra challenge can be provided by designing and implementing an algorithm for generating consistent timelines.
 
-The project is currently being developed by **Aron Davids**.
+The project was done by **Aron Davids** aka [**@ArcaneLean**](https://github.com/ArcaneLean):
+- Title: _[Identifying Plot Holes in Narrative Stories by Simulating Events](http://purl.utwente.nl/essays/91967)_
+- Presented at [37th Twente Student Conference on IT](https://sites.google.com/utwente.nl/37th-twente-student-conference/) on 8 July 2023
+- Paper: https://drive.google.com/file/d/1bvpkzsJgs-AVBQ82jlYXC9rRdYfHcxwC/view
