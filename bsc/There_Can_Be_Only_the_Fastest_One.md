@@ -25,6 +25,9 @@ The idea behind this project is to do the following:
 
 **NB:** There is a strong preference for using a platform **not** necessarily geared towards performance (such as .NET Core or JVM) instead of, say, bare C/C++, because (1) implementations of complex data structures are considerably harder in a low-level non-garbage-collected language and (2) most such questions have already been answered with concrete libraries. This project aims more at answering a mainstream developer's questions like "is using `Stack<...>` enough, or do I need to code up my own linked list implementation for my program to be fast?"
 
-**NB2:** This project has been successfully completed once in July 2021 by Marten Voorberg as *[Performance Analysis of Membership Data Structures for Integers in Java](http://purl.utwente.nl/essays/87064)*, where the focus was on membership data structures, which support one query: determining whether a certain element is contained in the data structure. The project was a success and even got nominated for a Best Paper Award at [35TScIT](https://sites.google.com/utwente.nl/tscit35/), but there is a lot more to be done for other data structures.
-
-**NB3:** The project is currently being developed by **Leonardo Pasquarelli** (for Java Collections) and by **Mark van Wijk** (for Scala?).
+**NB2:** This project has been successfully completed a couple of times, each of them investigated a different dimension:
+* **Marten Voorberg** in *[Performance Analysis of Membership Data Structures for Integers in Java](http://purl.utwente.nl/essays/87064)* focused on membership data structures which support only one query: determining whether a certain element is contained in the data structure;
+* **Mark van Wijk** in *[The Quest for the Best Thread-Safe Java List](http://purl.utwente.nl/essays/91694)* focused on lists and how thread (un)safety of their implementations affects their performance;
+* **Leonardo Pasquarelli** in *[Extending Java Collections for List and Set Data Structures](http://purl.utwente.nl/essays/91726)* focused on what additional data structures can/should be added to Java Collections by porting them from classic algorithms and alternative libraries;
+* **Kristian Nedelchev** in *[Performance evaluation of Map implementations in Java, Python and C#](http://purl.utwente.nl/essays/94391)* focused on the performance of map/dictionary implementations on different platforms: JVM, .NET and in Python.
+If you want to do a related project, it is up to you to define another unique point to investigate.
