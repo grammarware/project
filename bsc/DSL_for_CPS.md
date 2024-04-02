@@ -1,0 +1,9 @@
+# DSL for CPS
+
+Cyber-physical systems (CPS) are complex systems of intertwined physical and software components. Autonomously driving vehicles, smart electrical grids, medical monitoring systems, secure access systems with electronic keys, and many other examples are all around us. In the scope of an ongoing large industrial-supported [Zorro](https://zorro-project.nl) project aimed at reaching zero downtime in cyber-physical systems by devising and implementing smart diagnostics methods for them, we are interested in a way to encapsulate the knowledge about a cyber-physical system and express it in a compact yet powerful specification/program/model. How do you write down that there is a sensor? An actuator? How do you write down a rule that if a sensor is down, its value can be approximated by a computation formula based on two other sensor's values? How do you express a wish that the lights should go out ten minutes after the last person leaves the room? Time for you to get creative and make those decisions!
+
+Having passed TCS electives [CPS](https://utwente.osiris-student.nl/onderwijscatalogus/extern/cursus?cursuscode=202001042&collegejaar=2023&taal=en) and/or [CCC](https://utwente.osiris-student.nl/onderwijscatalogus/extern/cursus?cursuscode=202200192&collegejaar=2023&taal=en)+[FLP](https://utwente.osiris-student.nl/onderwijscatalogus/extern/cursus?cursuscode=202200191&collegejaar=2023&taal=en) gives you a boost here.
+
+The minimal contribution of this project is a literature review of papers with different ways of viewing or defining a cyber-physical system, and an [ANTLR](https://www.antlr.org) grammar of the envisioned language for that domain. Beyond that, the sky is the limit!
+
+Get in touch with your [potential future supervisor](mailto:v.zaytsev@utwente.nl) to discuss details!
