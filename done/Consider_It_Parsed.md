@@ -15,3 +15,7 @@ These are all nice features. What's even nicer is that the authors put up their 
 - rerun the experiment on a larger data set (Elastic Search has ~9k Java files, it is easy to get much, much more by grabbing [Qualitas Corpus](http://qualitascorpus.com/) or just the [Top 50 Repositories](https://medium.com/issuehunt/50-top-java-projects-on-github-adbfe9f67dbc), or even literally crawling the entire GitHub with GHTorrent or [GitHub REST API](https://docs.github.com/en/free-pro-team@latest/rest));
 - propose optimisations or list ideas on optimisations based on the findings.
 The code is relatively fresh and seems operational (compiles and runs on [.NET Core](https://dotnet.microsoft.com/download/dotnet-core) on a Mac laptop, both in Rider and Visual Studio). If you don't know [C#](http://docs.microsoft.com/en-us/dotnet/csharp/), that's not a problem: it looks and reads like Java, just designed better.
+
+The project was done by **Max Hendriks** aka [**@BurritoZz**](https://github.com/BurritoZz):
+- Thesis: http://purl.utwente.nl/essays/97432
+- Code: https://github.com/BurritoZz/Relational-Parsing-Rust

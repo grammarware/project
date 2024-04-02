@@ -14,4 +14,4 @@ In other words, it is up to the compiler (or preprocessor) to figure out the typ
 
 In this project, you implement this construct in some way on top of a language of your choice.
 
-Get in touch with your [potential future supervisor](mailto:v.zaytsev@utwente.nl) to discuss details!
+The project has not been done.

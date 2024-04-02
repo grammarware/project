@@ -4,4 +4,4 @@
 
 The goal of this project is different: take the description of the language and turn it into a comprehensive test suite covering all the darkest corners of the language. The language is intentionally small, so there are not that many features, but some tests should explicitly cover feature combinations because sometimes two features can work on their own but cannot be properly combined. Sounds easy? Well, perhaps all this talk about BabyCobol being a nightmare is just for show…
 
-Get in touch with your [potential future supervisor](mailto:v.zaytsev@utwente.nl) to discuss details!
+The project ended up being a part of the MSc thesis by **Ömer Sayilir** aka [**@omersayilir75**](https://github.com/omersayilir75).

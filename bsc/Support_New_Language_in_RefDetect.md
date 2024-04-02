@@ -6,7 +6,7 @@ Recently, we have developed a tool capable of detecting refactorings in Java and
 
 As part of the project, the candidate student will use the current parser to extract code information in the target object-oriented language (e.g., Python) and store it in an existing intermediate data structure. Note that the remaining components responsible for detecting refactorings will remain unchanged and uses information stored in the intermediate data structures. The implemented tool will be thoroughly examined to evaluate its effectiveness in detecting refactorings in the newly supported object-oriented programming language.
 
-Get in touch with your [potential future supervisor](mailto:iman.hematimoghadam@utwente.nl) to discuss details!
+Get in touch with your [potential future supervisors](mailto:iman.hematimoghadam@utwente.nl,v.zaytsev@utwente.nl) to discuss details!
 
 References
 - [1] [Hemati Moghadam, I.](https://people.utwente.nl/iman.hematimoghadam), Cinnéide, M. Ó., Zarepour, F., & Jahanmir, M. A. RefDetect: A multi-language refactoring detection tool based on string alignment. IEEE Access, 9, 2021. [(doi)](https://doi.org/10.1109/ACCESS.2021.3086689)
